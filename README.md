@@ -54,12 +54,3 @@ To get a local copy up and running, follow these simple steps:
 ## Demo
 You can view the application live by opening `index.html` in your browser.
 *(You could add a link to GitHub Pages if you deploy it there)*
-
-## Contributors
-* RA2311028010062 (SAHIL MOGHAIZ)
-* RA2311028010065 (YASHVARDHAN KHANNA)
-* RA2311028010080 (AARANYA SHARMA)
-* RA2311028010082 (TANMAY SRIVARSTAV)
-
-## License
-This project is open-sourced under the MIT License.
