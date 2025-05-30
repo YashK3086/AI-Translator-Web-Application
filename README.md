@@ -53,4 +53,4 @@ To get a local copy up and running, follow these simple steps:
 
 ## Demo
 You can view the application live by opening `index.html` in your browser.
-*(You could add a link to GitHub Pages if you deploy it there)*
+
